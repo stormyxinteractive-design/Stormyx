@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+  background-color: var(--color-secondary);
+  color: white;
+}
+
+html, body, #root {
+  min-height: 100vh;
+  background-color: var(--color-secondary);
+}

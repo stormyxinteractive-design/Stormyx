@@ -1,0 +1,6 @@
+{
+  "name": "Stormyx Interactive",
+  "description": "A premium AAA game studio website with dynamic game catalog, admin panel, and Firebase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
